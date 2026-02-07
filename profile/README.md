@@ -129,7 +129,7 @@ Please see individual repositories for details.
 ## 📫 Contact
 
 📧 **Email:** wista-project@outlook.jp  
-🐙 **GitHub:** https://github.com/wista-project
+🐙 **GitHub:** https://github.com/wista-wl-project
 
 ---
 
